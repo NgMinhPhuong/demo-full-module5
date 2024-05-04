@@ -8,7 +8,8 @@ function FormIk(){
     }
     return (
         <>
-    <Formik initialValues={{
+    <Formik 
+    initialValues={{
         name:'ten',
         age:18,
         dtb:5
